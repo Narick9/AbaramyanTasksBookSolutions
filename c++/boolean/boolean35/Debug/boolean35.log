@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\googleDrive\саморазвитие\c++\решения по задачнику\boolean\boolean.h(82,13): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+D:\googleDrive\саморазвитие\c++\решения по задачнику\boolean\boolean.h(99,40): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+D:\googleDrive\саморазвитие\c++\решения по задачнику\boolean\boolean.h(110,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\googleDrive\саморазвитие\c++\решения по задачнику\boolean\boolean.h(111,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\googleDrive\саморазвитие\c++\решения по задачнику\boolean\boolean.h(132,10): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+  boolean35.vcxproj -> D:\googleDrive\саморазвитие\c++\решения по задачнику\boolean\boolean35\Debug\boolean35.exe
